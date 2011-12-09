@@ -37,3 +37,6 @@ Votre code doit tourner dans une JVM, si vous faites des trucs inhabituels, lais
 Pour participer, forker ce projet et envoyer nous votre pull request.
 Vous présenterez votre solution le mercredi 14 Décembre lors d'un coding dojo spécial "Code Story"
 
+Pour executer la solution
+=================
+mvn exec:java
